@@ -1,0 +1,21 @@
+footer {
+    padding-top: 30px;
+}
+
+footer ul {
+    padding: 0;
+}
+
+footer ul li {
+    line-height: 2.0;
+    cursor: pointer;
+    font-size: 0.8em;
+    
+    &:hover {
+        color: $primaryColor;
+    }
+}
+
+footer p {
+    font-weight: bold;
+}

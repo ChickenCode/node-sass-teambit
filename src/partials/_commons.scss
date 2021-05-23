@@ -1,0 +1,48 @@
+* {
+    color: $secondaryColor;
+}
+
+a {
+    color: $secondaryColor;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.special-links {
+    color: $linkColor;
+}
+
+.regular-links {
+    color: $tertiaryColor;
+}
+
+.tertiary {
+    color: $tertiaryColor;
+}
+
+.flex-basis-50 {
+    flex-basis: 50%;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+h2 {
+    line-height: $line-height;
+    font-weight: bold;
+}
+
+.small-margin-bot {
+    margin-bottom: $small-margin;
+}
+
+.big-margin-bot {
+    margin-bottom: $big-margin;
+}
+.big-margin-top {
+    margin-top: $big-margin;
+}

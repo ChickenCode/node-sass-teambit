@@ -1,0 +1,45 @@
+.primary-background{
+    background-color: $primaryColor;
+}
+
+section {
+    padding: 50px 0;
+}
+
+.subtitle {
+    font-weight: bold;
+}
+
+.sign-up {
+    padding: 3px 10px 7px;
+    color: $linkColor;
+    background-color: $secondaryColor;
+    border-radius: 5px;
+}
+
+.small-logo {
+    height: 20px;
+}
+
+.small-img {
+    width: $small-img;
+}
+
+.medium-img {
+    width: $medium-img;
+}
+
+.spiegone {
+    border: 1px $quaternaryColor solid;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: white;
+
+    img {
+        height: 50px;
+    }
+
+    .founders {
+        margin: 0 10px 0 0;
+    }
+}
